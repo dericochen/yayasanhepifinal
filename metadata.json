@@ -1,0 +1,6 @@
+{
+  "name": "Yayasan Healthy Planet Indonesia",
+  "description": "Modern website for Yayasan Healthy Planet Indonesia (HePI) - Integrating Conservation and Healthcare in the Batang Toru Ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
